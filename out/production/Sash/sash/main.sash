@@ -1,7 +1,0 @@
-
-record Person {
-    name: String
-    age: Int
-}
-
-def x = Person
